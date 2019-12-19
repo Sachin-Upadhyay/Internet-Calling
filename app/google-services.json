@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "879471103499",
+    "firebase_url": "https://appvoicecalling.firebaseio.com",
+    "project_id": "appvoicecalling",
+    "storage_bucket": "appvoicecalling.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879471103499:android:cce6b15534a0202f72010e",
+        "android_client_info": {
+          "package_name": "com.e.appvoicecalling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879471103499-rmujoj859gtdavhbrbscm50oj7o8ecmd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.e.appvoicecalling",
+            "certificate_hash": "20133982fc86aeaf0521ab19c6a7bdcf67d329cd"
+          }
+        },
+        {
+          "client_id": "879471103499-a6gqon1p87uifl68l3t26219gu50sirp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp-06z1XXgBtVlA-mWJrOwZ7z78bENEuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879471103499-a6gqon1p87uifl68l3t26219gu50sirp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
